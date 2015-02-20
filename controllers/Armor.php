@@ -4,7 +4,7 @@ require_once 'Base.php';
 
 class Armor extends Base {
 
-    protected $_data_source = 'data_files/default/armor.json';
+    protected $filename = 'armor.json';
 
 }
 

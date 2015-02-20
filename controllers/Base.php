@@ -5,13 +5,18 @@ class Base {
     protected $_data_source;
     private $_data_array;
 
-    public function set_data_source($data_source) {
-        $this->_data_source = $data_source;
+    public function get_data_source($subdir = 'default') {
+        if(!isset($this->_data_source)) {
+            $file = 'data_files/'.$subdir.'/'.$this->filename;
+            $this->_data_source = $file;
+        }
+
+        return $this->_data_source;
     }
 
     public function get_data_array() {
         if(!isset($this->_data_array)) {
-            $raw = file_get_contents($this->_data_source);
+            $raw = file_get_contents($this->get_data_source());
             $this->_data_array = json_decode($raw);
         }
 

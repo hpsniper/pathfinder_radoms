@@ -4,7 +4,7 @@ require_once 'Base.php';
 
 class Weapon extends Base {
 
-    protected $_data_source = 'data_files/default/weapons.json';
+    protected $filename = 'weapons.json';
 
 }
 
