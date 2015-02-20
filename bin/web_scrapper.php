@@ -1,9 +1,9 @@
 <?php
 
-class Random_Weapons {
+class Weapons {
 
     private $_page_url = 'http://www.d20pfsrd.com/equipment---final/weapons';
-    private $_data_source = 'data_files/default/weapons.html';
+    private $_data_source = '../data_files/default/weapons.html';
     private $_data_array;
 
     public function get_data_array() {
@@ -32,7 +32,9 @@ class Random_Weapons {
                             $a_info = $this->search_a_tags($child);
                             $set_array = array();
                             $row = explode("\n", trim($child->nodeValue));
-                            for($i=0;$i<9;$i++) {
+                            $set_array['Name'] = $row[0];
+                            $set_array['Classification'] = $header[0];
+                            for($i=1;$i<9;$i++) {
                                 $set_array[$header[$i]] = $row[$i];
                             }
 
@@ -45,6 +47,7 @@ class Random_Weapons {
                 }
             }
 
+            echo json_encode($data_array);
             $this->_data_array = $data_array;
         }
 
@@ -85,9 +88,5 @@ class Random_Weapons {
 
 }
 
-$rw = new Random_Weapons();
+$rw = new Weapons();
 $rw->generate_random();
-$rw->generate_random();
-$rw->generate_random();
-$rw->generate_random();
-

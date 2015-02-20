@@ -1,6 +1,6 @@
 <?php
 
-class Random_Weapons {
+class Weapon {
 
     private $_data_source = 'data_files/default/weapons.json';
     private $_data_array;
@@ -30,11 +30,17 @@ class Random_Weapons {
         $this->display($data_array[$rand]);
     }
 
+    public function search($field, $search) {
+        $data_array = $this->get_data_array();
+        foreach($data_array as $wpn) {
+            if(preg_match("/{$search}/i", $wpn->$field)) {
+                $this->display($wpn);
+            }
+        }
+    }
+
 }
 
-$rw = new Random_Weapons();
+$rw = new Weapon();
 $rw->generate_random();
-$rw->generate_random();
-$rw->generate_random();
-$rw->generate_random();
-
+$rw->search('Name', 'arro');

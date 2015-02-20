@@ -1,7 +1,8 @@
-[{"(Simple) Unarmed Attacks":"Gauntlet",
+[{"Name":"Gauntlet",
+	"Classification":"(Simple) Unarmed Attacks",
 	"Cost":"2 gp",
-	"Dmg (S)":"1d2",
-	"Dmg (M)":"1d3",
+	"Dmg_S":"1d2",
+	"Dmg_M":"1d3",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -11,10 +12,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/gauntlet"
 },
 {
-	"(Simple) Unarmed Attacks":"Unarmed strike",
+	"Name":"Unarmed strike",
+	"Classification":"(Simple) Unarmed Attacks",
 	"Cost":"\u2014",
-	"Dmg (S)":"1d2",
-	"Dmg (M)":"1d3",
+	"Dmg_S":"1d2",
+	"Dmg_M":"1d3",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"\u2014",
@@ -24,10 +26,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/strike-unarmed"
 },
 {
-	"(Simple) Light Melee Weapons":"Battle aspergillum",
+	"Name":"Battle aspergillum",
+	"Classification":"(Simple) Light Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"4 lb.",
@@ -37,10 +40,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/battle-aspergillum"
 },
 {
-	"(Simple) Light Melee Weapons":"Brass knife",
+	"Name":"Brass knife",
+	"Classification":"(Simple) Light Melee Weapons",
 	"Cost":"2 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"19-20\/\u00d72",
 	"Range":"10 ft.",
 	"Weight":"1 lb.",
@@ -50,10 +54,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/brass-knife"
 },
 {
-	"(Simple) Light Melee Weapons":"Brass knuckles",
+	"Name":"Brass knuckles",
+	"Classification":"(Simple) Light Melee Weapons",
 	"Cost":"1 gp",
-	"Dmg (S)":"1d2",
-	"Dmg (M)":"1d3",
+	"Dmg_S":"1d2",
+	"Dmg_M":"1d3",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -63,10 +68,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/brass-knuckles"
 },
 {
-	"(Simple) Light Melee Weapons":"Cestus",
+	"Name":"Cestus",
+	"Classification":"(Simple) Light Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -76,10 +82,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/cestus"
 },
 {
-	"(Simple) Light Melee Weapons":"Dagger",
+	"Name":"Dagger",
+	"Classification":"(Simple) Light Melee Weapons",
 	"Cost":"2 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"10 ft.",
 	"Weight":"1 lb.",
@@ -89,10 +96,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/dagger"
 },
 {
-	"(Simple) Light Melee Weapons":"Dagger, punching",
+	"Name":"Dagger, punching",
+	"Classification":"(Simple) Light Melee Weapons",
 	"Cost":"2 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4 ",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4 ",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -102,10 +110,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/dagger-punching"
 },
 {
-	"(Simple) Light Melee Weapons":"Gauntlet, spiked",
+	"Name":"Gauntlet, spiked",
+	"Classification":"(Simple) Light Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -115,10 +124,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/gauntlet-spiked"
 },
 {
-	"(Simple) Light Melee Weapons":"Hook hand",
+	"Name":"Hook hand",
+	"Classification":"(Simple) Light Melee Weapons",
 	"Cost":"10 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -128,10 +138,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/hook-hand"
 },
 {
-	"(Simple) Light Melee Weapons":"Kunai",
+	"Name":"Kunai",
+	"Classification":"(Simple) Light Melee Weapons",
 	"Cost":"2 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"10 ft.",
 	"Weight":"2 lbs.",
@@ -141,10 +152,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/kunai"
 },
 {
-	"(Simple) Light Melee Weapons":"Mace, light",
+	"Name":"Mace, light",
+	"Classification":"(Simple) Light Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"4 lbs.",
@@ -154,10 +166,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/mace-light"
 },
 {
-	"(Simple) Light Melee Weapons":"Sickle",
+	"Name":"Sickle",
+	"Classification":"(Simple) Light Melee Weapons",
 	"Cost":"6 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -167,10 +180,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sickle"
 },
 {
-	"(Simple) Light Melee Weapons":"Wooden stake",
+	"Name":"Wooden stake",
+	"Classification":"(Simple) Light Melee Weapons",
 	"Cost":"\u2014",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"10 ft.",
 	"Weight":"1 lb.",
@@ -180,10 +194,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/stake-wooden"
 },
 {
-	"(Simple) One-Handed Melee Weapons":"Club",
+	"Name":"Club",
+	"Classification":"(Simple) One-Handed Melee Weapons",
 	"Cost":"\u2014",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"10 ft.",
 	"Weight":"3 lbs.",
@@ -193,10 +208,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/club"
 },
 {
-	"(Simple) One-Handed Melee Weapons":"Club, mere",
+	"Name":"Club, mere",
+	"Classification":"(Simple) One-Handed Melee Weapons",
 	"Cost":"2 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -206,10 +222,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/mere-club"
 },
 {
-	"(Simple) One-Handed Melee Weapons":"Mace, heavy",
+	"Name":"Mace, heavy",
+	"Classification":"(Simple) One-Handed Melee Weapons",
 	"Cost":"12 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"8 lbs.",
@@ -219,10 +236,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/mace-heavy"
 },
 {
-	"(Simple) One-Handed Melee Weapons":"Morningstar",
+	"Name":"Morningstar",
+	"Classification":"(Simple) One-Handed Melee Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"6 lbs.",
@@ -232,10 +250,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/morningstar"
 },
 {
-	"(Simple) One-Handed Melee Weapons":"Shortspear",
+	"Name":"Shortspear",
+	"Classification":"(Simple) One-Handed Melee Weapons",
 	"Cost":"1 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"20 ft.",
 	"Weight":"3 lbs.",
@@ -245,10 +264,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/shortspear"
 },
 {
-	"(Simple) Two-Handed Melee Weapons":"Bayonet",
+	"Name":"Bayonet",
+	"Classification":"(Simple) Two-Handed Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -258,10 +278,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/bayonet"
 },
 {
-	"(Simple) Two-Handed Melee Weapons":"Boarding pike",
+	"Name":"Boarding pike",
+	"Classification":"(Simple) Two-Handed Melee Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"9 lbs.",
@@ -271,10 +292,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/boarding-pike"
 },
 {
-	"(Simple) Two-Handed Melee Weapons":"Longspear",
+	"Name":"Longspear",
+	"Classification":"(Simple) Two-Handed Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"9 lbs.",
@@ -284,10 +306,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/longspear"
 },
 {
-	"(Simple) Two-Handed Melee Weapons":"Quarterstaff",
+	"Name":"Quarterstaff",
+	"Classification":"(Simple) Two-Handed Melee Weapons",
 	"Cost":"\u2014",
-	"Dmg (S)":"1d4\/1d4",
-	"Dmg (M)":"1d6\/1d6",
+	"Dmg_S":"1d4\/1d4",
+	"Dmg_M":"1d6\/1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"4 lbs.",
@@ -297,10 +320,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/quarterstaff"
 },
 {
-	"(Simple) Two-Handed Melee Weapons":"Spear",
+	"Name":"Spear",
+	"Classification":"(Simple) Two-Handed Melee Weapons",
 	"Cost":"2 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"20 ft.",
 	"Weight":"6 lbs.",
@@ -310,10 +334,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/spear"
 },
 {
-	"(Simple) Two-Handed Melee Weapons":"Spear, boar",
+	"Name":"Spear, boar",
+	"Classification":"(Simple) Two-Handed Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"8 lb.",
@@ -323,10 +348,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/spear-boar"
 },
 {
-	"(Simple) Ranged Weapons":"Blowgun",
+	"Name":"Blowgun",
+	"Classification":"(Simple) Ranged Weapons",
 	"Cost":"2 gp",
-	"Dmg (S)":"1",
-	"Dmg (M)":"1d2",
+	"Dmg_S":"1",
+	"Dmg_M":"1d2",
 	"Critical":"\u00d72",
 	"Range":"20 ft.",
 	"Weight":"1 lb.",
@@ -336,10 +362,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/blowgun"
 },
 {
-	"(Simple) Ranged Weapons":"Crossbow, heavy",
+	"Name":"Crossbow, heavy",
+	"Classification":"(Simple) Ranged Weapons",
 	"Cost":"50 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"120 ft.",
 	"Weight":"8 lbs.",
@@ -349,10 +376,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/crossbow-heavy"
 },
 {
-	"(Simple) Ranged Weapons":"Crossbow, heavy (underwater)",
+	"Name":"Crossbow, heavy (underwater)",
+	"Classification":"(Simple) Ranged Weapons",
 	"Cost":"100 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"120 ft.",
 	"Weight":"8 lbs.",
@@ -362,10 +390,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/crossbow-underwater"
 },
 {
-	"(Simple) Ranged Weapons":"Crossbow, light",
+	"Name":"Crossbow, light",
+	"Classification":"(Simple) Ranged Weapons",
 	"Cost":"35 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"80 ft.",
 	"Weight":"4 lbs.",
@@ -375,10 +404,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/crossbow-light"
 },
 {
-	"(Simple) Ranged Weapons":"Crossbow, light (underwater)",
+	"Name":"Crossbow, light (underwater)",
+	"Classification":"(Simple) Ranged Weapons",
 	"Cost":"70 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"80 ft.",
 	"Weight":"4 lbs.",
@@ -388,10 +418,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/crossbow-underwater"
 },
 {
-	"(Simple) Ranged Weapons":"Dart",
+	"Name":"Dart",
+	"Classification":"(Simple) Ranged Weapons",
 	"Cost":"5 sp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"20 ft.",
 	"Weight":"1\/2 lb.",
@@ -401,10 +432,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-thrown-darts"
 },
 {
-	"(Simple) Ranged Weapons":"Javelin",
+	"Name":"Javelin",
+	"Classification":"(Simple) Ranged Weapons",
 	"Cost":"1 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"30 ft.",
 	"Weight":"2 lbs.",
@@ -414,10 +446,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/javelin"
 },
 {
-	"(Simple) Ranged Weapons":"Sling",
+	"Name":"Sling",
+	"Classification":"(Simple) Ranged Weapons",
 	"Cost":"\u2014",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"50 ft.",
 	"Weight":"\u2014",
@@ -427,10 +460,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sling"
 },
 {
-	"(Simple) Ranged Weapons":"Stingchuck",
+	"Name":"Stingchuck",
+	"Classification":"(Simple) Ranged Weapons",
 	"Cost":"\u2014",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"10 ft.",
 	"Weight":"9 lbs.",
@@ -440,10 +474,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/stingchuck"
 },
 {
-	"(Simple) Ranged Weapons":"Stonebow",
+	"Name":"Stonebow",
+	"Classification":"(Simple) Ranged Weapons",
 	"Cost":"35 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"50 ft.",
 	"Weight":"4 lbs.",
@@ -453,10 +488,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/stonebow"
 },
 {
-	"(Simple) Ammunition":"Bolt(s), crossbow (10)",
+	"Name":"Bolt(s), crossbow (10)",
+	"Classification":"(Simple) Ammunition",
 	"Cost":"1 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -466,10 +502,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-crossbow-bolts-or-quarrels"
 },
 {
-	"(Simple) Ammunition":"Bolt(s), acid (1)",
+	"Name":"Bolt(s), acid (1)",
+	"Classification":"(Simple) Ammunition",
 	"Cost":"40 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"0.1 lb.",
@@ -479,10 +516,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-crossbow-bolt-acid"
 },
 {
-	"(Simple) Ammunition":"Bolt(s), Drow poison (1)",
+	"Name":"Bolt(s), Drow poison (1)",
+	"Classification":"(Simple) Ammunition",
 	"Cost":"100 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"0.1 lb.",
@@ -492,10 +530,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-crossbow-bolt-drow-poison"
 },
 {
-	"(Simple) Ammunition":"Bolt(s), fire (1)",
+	"Name":"Bolt(s), fire (1)",
+	"Classification":"(Simple) Ammunition",
 	"Cost":"50 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"0.1 lb.",
@@ -505,10 +544,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-crossbow-bolt-fire"
 },
 {
-	"(Simple) Ammunition":"Bullet(s), groaning (10)",
+	"Name":"Bullet(s), groaning (10)",
+	"Classification":"(Simple) Ammunition",
 	"Cost":"2 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"5 lbs.",
@@ -518,10 +558,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-sling-bullets-groaning"
 },
 {
-	"(Simple) Ammunition":"Bullet(s), sling (10)",
+	"Name":"Bullet(s), sling (10)",
+	"Classification":"(Simple) Ammunition",
 	"Cost":"1 sp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"5 lbs.",
@@ -531,10 +572,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-sling-bullets"
 },
 {
-	"(Simple) Ammunition":"Bullet(s), smoke (10)",
+	"Name":"Bullet(s), smoke (10)",
+	"Classification":"(Simple) Ammunition",
 	"Cost":"100 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"5 lbs.",
@@ -544,10 +586,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-sling-bullet-smoke"
 },
 {
-	"(Simple) Ammunition":"Dart(s), blowgun (10)",
+	"Name":"Dart(s), blowgun (10)",
+	"Classification":"(Simple) Ammunition",
 	"Cost":"5 sp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -557,10 +600,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-blowgun-darts"
 },
 {
-	"(Martial) Light Melee Weapons":"Axe, boarding",
+	"Name":"Axe, boarding",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"6 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -570,10 +614,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/boarding-axe"
 },
 {
-	"(Martial) Light Melee Weapons":"Axe, throwing",
+	"Name":"Axe, throwing",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"10 ft.",
 	"Weight":"2 lbs.",
@@ -583,10 +628,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/axe-throwing"
 },
 {
-	"(Martial) Light Melee Weapons":"Blade boot",
+	"Name":"Blade boot",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"25 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -596,10 +642,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/blade-boot"
 },
 {
-	"(Martial) Light Melee Weapons":"Cat-o'-nine-tails",
+	"Name":"Cat-o'-nine-tails",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"1 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -609,10 +656,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/cat-o--nine-tails"
 },
 {
-	"(Martial) Light Melee Weapons":"Dogslicer",
+	"Name":"Dogslicer",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -622,10 +670,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/dogslicer"
 },
 {
-	"(Martial) Light Melee Weapons":"Hammer, light",
+	"Name":"Hammer, light",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"1 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"20 ft.",
 	"Weight":"2 lbs.",
@@ -635,10 +684,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/hammer-light"
 },
 {
-	"(Martial) Light Melee Weapons":"Gladius",
+	"Name":"Gladius",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -648,10 +698,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/gladius"
 },
 {
-	"(Martial) Light Melee Weapons":"Handaxe",
+	"Name":"Handaxe",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"6 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -661,10 +712,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/handaxe"
 },
 {
-	"(Martial) Light Melee Weapons":"Knife, switchblade",
+	"Name":"Knife, switchblade",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"19-20\/\u00d72",
 	"Range":"10 ft.",
 	"Weight":"1 lb.",
@@ -674,10 +726,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/knife-switchblade"
 },
 {
-	"(Martial) Light Melee Weapons":"Kobold tail attachment, Long lash",
+	"Name":"Kobold tail attachment, Long lash",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -687,10 +740,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/kobold-tail-attachments"
 },
 {
-	"(Martial) Light Melee Weapons":"Kobold tail attachment, Pounder",
+	"Name":"Kobold tail attachment, Pounder",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"1 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"4 lbs.",
@@ -700,10 +754,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/kobold-tail-attachments"
 },
 {
-	"(Martial) Light Melee Weapons":"Kobold tail attachment, Razored",
+	"Name":"Kobold tail attachment, Razored",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"3 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -713,10 +768,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/kobold-tail-attachments"
 },
 {
-	"(Martial) Light Melee Weapons":"Kobold tail attachment, Spiked",
+	"Name":"Kobold tail attachment, Spiked",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"3 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"\u00d73",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -726,10 +782,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/kobold-tail-attachments"
 },
 {
-	"(Martial) Light Melee Weapons":"Kobold tail attachment, Sweeper",
+	"Name":"Kobold tail attachment, Sweeper",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"7 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -739,10 +796,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/kobold-tail-attachments"
 },
 {
-	"(Martial) Light Melee Weapons":"Kukri",
+	"Name":"Kukri",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"18\u201320\/x2",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -752,10 +810,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/kukri"
 },
 {
-	"(Martial) Light Melee Weapons":"Pick, light",
+	"Name":"Pick, light",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"4 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"x4",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -765,10 +824,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/pick-light"
 },
 {
-	"(Martial) Light Melee Weapons":"Ratfolk tailblade",
+	"Name":"Ratfolk tailblade",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"11 gp",
-	"Dmg (S)":"1d2",
-	"Dmg (M)":"1d3",
+	"Dmg_S":"1d2",
+	"Dmg_M":"1d3",
 	"Critical":"20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"1\/2 lb.",
@@ -778,10 +838,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/tailblade"
 },
 {
-	"(Martial) Light Melee Weapons":"Sap",
+	"Name":"Sap",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"1 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -791,10 +852,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sap"
 },
 {
-	"(Martial) Light Melee Weapons":"Sea-knife",
+	"Name":"Sea-knife",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -804,10 +866,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sea-knife"
 },
 {
-	"(Martial) Light Melee Weapons":"Shield, light",
+	"Name":"Shield, light",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"special",
-	"Dmg (S)":"1d2",
-	"Dmg (M)":"1d3",
+	"Dmg_S":"1d2",
+	"Dmg_M":"1d3",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"special",
@@ -817,10 +880,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/shield-heavy-or-light"
 },
 {
-	"(Martial) Light Melee Weapons":"Spiked armor",
+	"Name":"Spiked armor",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"special",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"special",
@@ -830,10 +894,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/spiked-armor"
 },
 {
-	"(Martial) Light Melee Weapons":"Spiked shield, light",
+	"Name":"Spiked shield, light",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"special",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"special",
@@ -843,10 +908,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/spiked-shield-heavy-or-light"
 },
 {
-	"(Martial) Light Melee Weapons":"Starknife",
+	"Name":"Starknife",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"24 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"x3",
 	"Range":"20 ft.",
 	"Weight":"3 lbs.",
@@ -856,10 +922,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/starknife"
 },
 {
-	"(Martial) Light Melee Weapons":"Sword, short",
+	"Name":"Sword, short",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"10 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -869,10 +936,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/shortsword"
 },
 {
-	"(Martial) Light Melee Weapons":"War razor",
+	"Name":"War razor",
+	"Classification":"(Martial) Light Melee Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -882,10 +950,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/war-razor"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Battleaxe",
+	"Name":"Battleaxe",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"10 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"6 lbs.",
@@ -895,10 +964,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/axe-battle"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Combat scabbard",
+	"Name":"Combat scabbard",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"\u00a01 gp",
-	"Dmg (S)":"\u00a01d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"\u00a01d4",
+	"Dmg_M":"1d6",
 	"Critical":"x2 ",
 	"Range":"\u00a0 \u2014",
 	"Weight":"\u00a01 lb.",
@@ -908,10 +978,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/combat-scabbard-sharpened"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Cutlass",
+	"Name":"Cutlass",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"18-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"4 lbs.",
@@ -921,10 +992,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/cutlass"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Flail",
+	"Name":"Flail",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"5 lbs.",
@@ -934,10 +1006,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/flail"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Klar",
+	"Name":"Klar",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"12 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"6 lbs.",
@@ -947,10 +1020,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/klar"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Longsword",
+	"Name":"Longsword",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"4 lbs.",
@@ -960,10 +1034,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/longsword"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Pick, heavy",
+	"Name":"Pick, heavy",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"x4",
 	"Range":"\u2014",
 	"Weight":"6 lbs.",
@@ -973,10 +1048,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/pick-heavy"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Rapier",
+	"Name":"Rapier",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"20 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"18\u201320\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -986,10 +1062,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/rapier"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Scabbard, combat (sharpened)",
+	"Name":"Scabbard, combat (sharpened)",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"10 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -999,10 +1076,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/combat-scabbard-sharpened"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Scimitar",
+	"Name":"Scimitar",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"18\u201320\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"4 lbs.",
@@ -1012,10 +1090,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/scimitar"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Scizore",
+	"Name":"Scizore",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"20 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -1025,10 +1104,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/scizore"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Shield, heavy",
+	"Name":"Shield, heavy",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"special",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"special",
@@ -1038,10 +1118,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/shield-heavy-or-light"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Spiked shield, heavy",
+	"Name":"Spiked shield, heavy",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"special",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"special",
@@ -1051,10 +1132,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/spiked-shield-heavy-or-light"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Sword cane",
+	"Name":"Sword cane",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"45 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"4 lbs.",
@@ -1064,10 +1146,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/swordcane"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Terbutje",
+	"Name":"Terbutje",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -1077,10 +1160,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/terbutje"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Terbutje, steel",
+	"Name":"Terbutje, steel",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"20 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"4 lbs.",
@@ -1090,10 +1174,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/terbutje-steel"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Trident",
+	"Name":"Trident",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"\u00d72",
 	"Range":"10 ft.",
 	"Weight":"4 lbs.",
@@ -1103,10 +1188,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/trident"
 },
 {
-	"(Martial) One-Handed Melee Weapons":"Warhammer",
+	"Name":"Warhammer",
+	"Classification":"(Martial) One-Handed Melee Weapons",
 	"Cost":"12 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"5 lbs.",
@@ -1116,10 +1202,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/warhammer"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Bardiche",
+	"Name":"Bardiche",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"13 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"14 lbs.",
@@ -1129,10 +1216,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/bardiche"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Bec de corbin",
+	"Name":"Bec de corbin",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"12 lbs.",
@@ -1142,10 +1230,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/bec-de-corbin"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Bill",
+	"Name":"Bill",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"11 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"11 lbs.",
@@ -1155,10 +1244,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/bill"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Earth breaker",
+	"Name":"Earth breaker",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"40 gp",
-	"Dmg (S)":"1d10",
-	"Dmg (M)":"2d6",
+	"Dmg_S":"1d10",
+	"Dmg_M":"2d6",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"14 lbs.",
@@ -1168,10 +1258,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/earth-breaker"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Falchion",
+	"Name":"Falchion",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"75 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"2d4",
+	"Dmg_S":"1d6",
+	"Dmg_M":"2d4",
 	"Critical":"18\u201320\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"8 lbs.",
@@ -1181,10 +1272,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/falchion"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Flail, heavy",
+	"Name":"Flail, heavy",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -1194,10 +1286,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/flail-heavy"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Glaive",
+	"Name":"Glaive",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -1207,10 +1300,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/glaive"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Glaive-guisarme",
+	"Name":"Glaive-guisarme",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"12 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -1220,10 +1314,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/glaive-guisarme"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Greataxe",
+	"Name":"Greataxe",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"20 gp",
-	"Dmg (S)":"1d10",
-	"Dmg (M)":"1d12",
+	"Dmg_S":"1d10",
+	"Dmg_M":"1d12",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"12 lbs.",
@@ -1233,10 +1328,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/axe-great"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Greatclub",
+	"Name":"Greatclub",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"8 lbs.",
@@ -1246,10 +1342,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/club-great"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Greatsword",
+	"Name":"Greatsword",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"50 gp",
-	"Dmg (S)":"1d10",
-	"Dmg (M)":"2d6",
+	"Dmg_S":"1d10",
+	"Dmg_M":"2d6",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"8 lbs.",
@@ -1259,10 +1356,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/greatsword"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Guisarme",
+	"Name":"Guisarme",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"9 gp",
-	"Dmg (S)":"1d6 ",
-	"Dmg (M)":"2d4",
+	"Dmg_S":"1d6 ",
+	"Dmg_M":"2d4",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"12 lbs.",
@@ -1272,10 +1370,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/guisarme"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Halberd",
+	"Name":"Halberd",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"10 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"12 lbs.",
@@ -1285,10 +1384,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/halberd"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Hammer, lucerne",
+	"Name":"Hammer, lucerne",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1d10",
-	"Dmg (M)":"1d12",
+	"Dmg_S":"1d10",
+	"Dmg_M":"1d12",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"12 lbs.",
@@ -1298,10 +1398,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/hammer-lucerne"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Horsechopper",
+	"Name":"Horsechopper",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"10 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"12 lbs.",
@@ -1311,10 +1412,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/horsechopper"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Lance",
+	"Name":"Lance",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"10 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -1324,10 +1426,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/lance"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Ogre hook",
+	"Name":"Ogre hook",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"24 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -1337,10 +1440,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ogre-hook"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Pickaxe",
+	"Name":"Pickaxe",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"14 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x4",
 	"Range":"\u2014",
 	"Weight":"12 lbs.",
@@ -1350,10 +1454,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/pickaxe"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Ranseur",
+	"Name":"Ranseur",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"10 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"2d4",
+	"Dmg_S":"1d6",
+	"Dmg_M":"2d4",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"12 lbs.",
@@ -1363,10 +1468,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ranseur"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Scythe",
+	"Name":"Scythe",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"18 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"2d4",
+	"Dmg_S":"1d6",
+	"Dmg_M":"2d4",
 	"Critical":"x4",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -1376,10 +1482,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/scythe"
 },
 {
-	"(Martial) Two-Handed Melee Weapons":"Spear, syringe",
+	"Name":"Spear, syringe",
+	"Classification":"(Martial) Two-Handed Melee Weapons",
 	"Cost":"100 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"20 ft.",
 	"Weight":"6 lbs.",
@@ -1389,10 +1496,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/spear-syringe"
 },
 {
-	"(Martial) Ranged Weapons":"Ammentum",
+	"Name":"Ammentum",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"\u2014",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"50 ft.",
 	"Weight":"1 lb.",
@@ -1402,10 +1510,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/amentum"
 },
 {
-	"(Martial) Ranged Weapons":"Chakram",
+	"Name":"Chakram",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"1 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"\u00d72",
 	"Range":"30 ft.",
 	"Weight":"1 lb.",
@@ -1415,10 +1524,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/chakram-common"
 },
 {
-	"(Martial) Ranged Weapons":"Dart, jolting",
+	"Name":"Dart, jolting",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"100 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"20 ft.",
 	"Weight":"1\/2 lb.",
@@ -1428,10 +1538,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/dart-jolting"
 },
 {
-	"(Martial) Ranged Weapons":"Hunga munga",
+	"Name":"Hunga munga",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"4 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"15 ft.",
 	"Weight":"3 lbs.",
@@ -1441,10 +1552,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/hunga-munga"
 },
 {
-	"(Martial) Ranged Weapons":"Hurlbat",
+	"Name":"Hurlbat",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d73",
 	"Range":"10 ft.",
 	"Weight":"2 lbs.",
@@ -1454,10 +1566,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/hurlbat"
 },
 {
-	"(Martial) Ranged Weapons":"Longbow",
+	"Name":"Longbow",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"75 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"100 ft.",
 	"Weight":"3 lbs.",
@@ -1467,10 +1580,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/longbow"
 },
 {
-	"(Martial) Ranged Weapons":"Longbow, composite (+0)",
+	"Name":"Longbow, composite (+0)",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"100 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"110 ft.",
 	"Weight":"3 lbs.",
@@ -1480,10 +1594,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/longbow-composite"
 },
 {
-	"(Martial) Ranged Weapons":"Longbow, composite (+1)",
+	"Name":"Longbow, composite (+1)",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"",
-	"Dmg (S)":"200 gp",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"200 gp",
+	"Dmg_M":"1d6",
 	"Critical":"1d8",
 	"Range":"x3",
 	"Weight":"110 ft.",
@@ -1493,10 +1608,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/longbow-composite"
 },
 {
-	"(Martial) Ranged Weapons":"Longbow, composite (+2)",
+	"Name":"Longbow, composite (+2)",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"",
-	"Dmg (S)":"300 gp",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"300 gp",
+	"Dmg_M":"1d6",
 	"Critical":"1d8",
 	"Range":"x3",
 	"Weight":"110 ft.",
@@ -1506,10 +1622,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/longbow-composite"
 },
 {
-	"(Martial) Ranged Weapons":"Longbow, composite (+3)",
+	"Name":"Longbow, composite (+3)",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"",
-	"Dmg (S)":"400 gp",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"400 gp",
+	"Dmg_M":"1d6",
 	"Critical":"1d8",
 	"Range":"x3",
 	"Weight":"110 ft.",
@@ -1519,10 +1636,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/longbow-composite"
 },
 {
-	"(Martial) Ranged Weapons":"Longbow, composite (+4)",
+	"Name":"Longbow, composite (+4)",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"",
-	"Dmg (S)":"500 gp",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"500 gp",
+	"Dmg_M":"1d6",
 	"Critical":"1d8",
 	"Range":"x3",
 	"Weight":"110 ft.",
@@ -1532,10 +1650,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/longbow-composite"
 },
 {
-	"(Martial) Ranged Weapons":"Longbow, composite (+5)",
+	"Name":"Longbow, composite (+5)",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"",
-	"Dmg (S)":"600 gp",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"600 gp",
+	"Dmg_M":"1d6",
 	"Critical":"1d8",
 	"Range":"x3",
 	"Weight":"110 ft.",
@@ -1545,10 +1664,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/longbow-composite"
 },
 {
-	"(Martial) Ranged Weapons":"Pilum",
+	"Name":"Pilum",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"\u00d72",
 	"Range":"20 ft.",
 	"Weight":"4 lbs.",
@@ -1558,10 +1678,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/pilum"
 },
 {
-	"(Martial) Ranged Weapons":"Shortbow",
+	"Name":"Shortbow",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"30 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"x3",
 	"Range":"60 ft.",
 	"Weight":"2 lbs.",
@@ -1571,10 +1692,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/shortbow"
 },
 {
-	"(Martial) Ranged Weapons":"Shortbow, composite",
+	"Name":"Shortbow, composite",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"75 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"x3",
 	"Range":"70 ft.",
 	"Weight":"2 lbs.",
@@ -1584,10 +1706,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/shortbow-composite"
 },
 {
-	"(Martial) Ranged Weapons":"Spear-sling",
+	"Name":"Spear-sling",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"50 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"\u00d73",
 	"Range":"see text",
 	"Weight":"2 lbs.",
@@ -1597,10 +1720,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/spear-sling"
 },
 {
-	"(Martial) Ranged Weapons":"Throwing arrow cord",
+	"Name":"Throwing arrow cord",
+	"Classification":"(Martial) Ranged Weapons",
 	"Cost":"\u2014",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"60 ft.",
 	"Weight":"\u2014",
@@ -1610,10 +1734,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/throwing-arrow-cord"
 },
 {
-	"(Martial) Ammunition":"Arrows, common (20)",
+	"Name":"Arrows, common (20)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"1 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -1623,10 +1748,11 @@
 	"href":""
 },
 {
-	"(Martial) Ammunition":"Arrows\/bolts, barbed (20)",
+	"Name":"Arrows\/bolts, barbed (20)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"2 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"3 lbs.",
@@ -1636,10 +1762,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/arrow-barbed"
 },
 {
-	"(Martial) Ammunition":"Arrow, bleeding (1)",
+	"Name":"Arrow, bleeding (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"360 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"see text",
@@ -1649,10 +1776,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrow-bleeding"
 },
 {
-	"(Martial) Ammunition":"Arrows, blunt (20)",
+	"Name":"Arrows, blunt (20)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"2 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -1662,10 +1790,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrow-blunt"
 },
 {
-	"(Martial) Ammunition":"Arrow, durable (1)",
+	"Name":"Arrow, durable (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"1 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"see text",
@@ -1675,10 +1804,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrow-durable"
 },
 {
-	"(Martial) Ammunition":"Arrow, dye (1)",
+	"Name":"Arrow, dye (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"1 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"4 lbs.",
@@ -1688,10 +1818,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrow-dye"
 },
 {
-	"(Martial) Ammunition":"Arrows, flight (20)",
+	"Name":"Arrows, flight (20)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"2 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"see text",
 	"Weight":"3 lbs.",
@@ -1701,10 +1832,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrows-flight"
 },
 {
-	"(Martial) Ammunition":"Arrows\/bolts, incendiary (20)",
+	"Name":"Arrows\/bolts, incendiary (20)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"10 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"3 lbs.",
@@ -1714,10 +1846,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/arrow-incendiary"
 },
 {
-	"(Martial) Ammunition":"Arrow, lodestone (1)",
+	"Name":"Arrow, lodestone (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"10 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"see text",
@@ -1727,10 +1860,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrow-lodestone"
 },
 {
-	"(Martial) Ammunition":"Arrow, pheromone (1)",
+	"Name":"Arrow, pheromone (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"15 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"see text",
@@ -1740,10 +1874,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrow-pheromone"
 },
 {
-	"(Martial) Ammunition":"Arrows\/bolts, pronged (20)",
+	"Name":"Arrows\/bolts, pronged (20)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"2 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"3 lbs.",
@@ -1753,10 +1888,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/arrow-pronged"
 },
 {
-	"(Martial) Ammunition":"Arrow, raining (1)",
+	"Name":"Arrow, raining (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"30 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"see text",
@@ -1766,10 +1902,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrow-raining"
 },
 {
-	"(Martial) Ammunition":"Arrow, slow burn (1)",
+	"Name":"Arrow, slow burn (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"150 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"see text",
@@ -1779,10 +1916,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrow-slow-burn"
 },
 {
-	"(Martial) Ammunition":"Arrow, smoke (1)",
+	"Name":"Arrow, smoke (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"10 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"\u2014",
@@ -1792,10 +1930,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrows-smokescreen"
 },
 {
-	"(Martial) Ammunition":"Arrow, splintercloud (1)",
+	"Name":"Arrow, splintercloud (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"25 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"see text",
@@ -1805,10 +1944,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrow-splintercloud"
 },
 {
-	"(Martial) Ammunition":"Arrow, tanglefoot (1)",
+	"Name":"Arrow, tanglefoot (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"20 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"see text",
@@ -1818,10 +1958,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrow-tanglefoot"
 },
 {
-	"(Martial) Ammunition":"Arrow, thistle (1)",
+	"Name":"Arrow, thistle (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"1 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"0.15 lbs",
@@ -1831,10 +1972,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrow-thistle"
 },
 {
-	"(Martial) Ammunition":"Arrow, throwing (1)",
+	"Name":"Arrow, throwing (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"5 sp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"1\/2 lb.",
@@ -1844,10 +1986,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/arrow-throwing"
 },
 {
-	"(Martial) Ammunition":"Arrow, trip (1)",
+	"Name":"Arrow, trip (1)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"25 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"see text",
 	"Range":"see text",
 	"Weight":"see text",
@@ -1857,10 +2000,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrow-trip"
 },
 {
-	"(Martial) Ammunition":"Arrows, whistling (20)",
+	"Name":"Arrows, whistling (20)",
+	"Classification":"(Martial) Ammunition",
 	"Cost":"2 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -1870,10 +2014,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-arrows-whistling"
 },
 {
-	"(Exotic) Light Melee Weapons":"Aklys",
+	"Name":"Aklys",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"\u00d72",
 	"Range":"20 ft.",
 	"Weight":"2 lbs.",
@@ -1883,10 +2028,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/aklys"
 },
 {
-	"(Exotic) Light Melee Weapons":"Axe, knuckle",
+	"Name":"Axe, knuckle",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"9 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -1896,10 +2042,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/axe-knuckle"
 },
 {
-	"(Exotic) Light Melee Weapons":"Barbazu beard",
+	"Name":"Barbazu beard",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"25 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"5 lbs",
@@ -1909,10 +2056,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/barbazu-beard"
 },
 {
-	"(Exotic) Light Melee Weapons":"Battle poi",
+	"Name":"Battle poi",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d3 fire",
-	"Dmg (M)":"1d4 fire",
+	"Dmg_S":"1d3 fire",
+	"Dmg_M":"1d4 fire",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -1922,10 +2070,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/battle-poi"
 },
 {
-	"(Exotic) Light Melee Weapons":"Dagger, swordbreaker",
+	"Name":"Dagger, swordbreaker",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"10 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -1935,10 +2084,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/dagger-swordbreaker"
 },
 {
-	"(Exotic) Light Melee Weapons":"Flying Talon",
+	"Name":"Flying Talon",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"10 ft.",
 	"Weight":"5 lbs.",
@@ -1948,10 +2098,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/flying-talon"
 },
 {
-	"(Exotic) Light Melee Weapons":"Helmet, dwarven boulder",
+	"Name":"Helmet, dwarven boulder",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"20 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -1961,10 +2112,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/helmet-dwarven-boulder"
 },
 {
-	"(Exotic) Light Melee Weapons":"Kama",
+	"Name":"Kama",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"2 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"x2",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -1974,10 +2126,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/kama"
 },
 {
-	"(Exotic) Light Melee Weapons":"Katar, tri-bladed",
+	"Name":"Katar, tri-bladed",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"6 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"x4",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -1987,10 +2140,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/katar-tri-bladed"
 },
 {
-	"(Exotic) Light Melee Weapons":"Knife, butterfly",
+	"Name":"Knife, butterfly",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -2000,10 +2154,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/knife-butterfly"
 },
 {
-	"(Exotic) Light Melee Weapons":"Maulaxe, dwarven",
+	"Name":"Maulaxe, dwarven",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"25 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"x3",
 	"Range":"10 ft.",
 	"Weight":"5 lbs.",
@@ -2013,10 +2168,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/maulaxe-dwarven"
 },
 {
-	"(Exotic) Light Melee Weapons":"Nunchaku",
+	"Name":"Nunchaku",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"2 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"x2",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -2026,10 +2182,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/nunchaku"
 },
 {
-	"(Exotic) Light Melee Weapons":"Quadrens",
+	"Name":"Quadrens",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -2039,10 +2196,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/quadrens"
 },
 {
-	"(Exotic) Light Melee Weapons":"Rope gauntlet",
+	"Name":"Rope gauntlet",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"2 sp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -2052,10 +2210,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/rope-gauntlet"
 },
 {
-	"(Exotic) Light Melee Weapons":"Sai",
+	"Name":"Sai",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"1 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"x2",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -2065,10 +2224,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sai"
 },
 {
-	"(Exotic) Light Melee Weapons":"Siangham",
+	"Name":"Siangham",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"3 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"x2",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -2078,10 +2238,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/siangham"
 },
 {
-	"(Exotic) Light Melee Weapons":"Sica",
+	"Name":"Sica",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"10 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -2091,10 +2252,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sica"
 },
 {
-	"(Exotic) Light Melee Weapons":"Thorn bracer",
+	"Name":"Thorn bracer",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"30 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -2104,10 +2266,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/thorn-bracer"
 },
 {
-	"(Exotic) Light Melee Weapons":"Whip, scorpion",
+	"Name":"Whip, scorpion",
+	"Classification":"(Exotic) Light Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -2117,10 +2280,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/whip-scorpion"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Axe, hooked",
+	"Name":"Axe, hooked",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"20 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"7 lbs.",
@@ -2130,10 +2294,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/axe-hooked"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Falcata",
+	"Name":"Falcata",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"18 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19-20\/x3",
 	"Range":"\u2014",
 	"Weight":"4 lbs.",
@@ -2143,10 +2308,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/falcata"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Flindbar",
+	"Name":"Flindbar",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"9 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x2",
 	"Range":"\u2014",
 	"Weight":"6 lbs.",
@@ -2156,10 +2322,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/flindbar"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Khopesh",
+	"Name":"Khopesh",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"20 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"8 lbs.",
@@ -2169,10 +2336,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/khopesh"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Knobkerrie",
+	"Name":"Knobkerrie",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"20 ft.",
 	"Weight":"4 lbs.",
@@ -2182,10 +2350,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/knobkerrie"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Rhoka",
+	"Name":"Rhoka",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"18-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"6 lbs.",
@@ -2195,10 +2364,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/rhoka"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Sabre, sawtooth",
+	"Name":"Sabre, sawtooth",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"35 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -2208,10 +2378,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sabre-sawtooth"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Shotel",
+	"Name":"Shotel",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"30 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"3 lbs.",
@@ -2221,10 +2392,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/shotel"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Sword, dueling",
+	"Name":"Sword, dueling",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"20 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"3 lbs",
@@ -2234,10 +2406,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sword-dueling"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Sword, bastard",
+	"Name":"Sword, bastard",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"35 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"6 lbs.",
@@ -2247,10 +2420,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sword-bastard"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Waraxe, dwarven",
+	"Name":"Waraxe, dwarven",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"30 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"8 lbs. ",
@@ -2260,10 +2434,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/waraxe-dwarven"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Waraxe, dwarven double",
+	"Name":"Waraxe, dwarven double",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"60 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"\u00d73",
 	"Range":"\u2014",
 	"Weight":"12 lbs.",
@@ -2273,10 +2448,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/waraxe-dwarven-double"
 },
 {
-	"(Exotic) One-Handed Melee Weapons":"Whip",
+	"Name":"Whip",
+	"Classification":"(Exotic) One-Handed Melee Weapons",
 	"Cost":"1 gp",
-	"Dmg (S)":"1d2",
-	"Dmg (M)":"1d3",
+	"Dmg_S":"1d2",
+	"Dmg_M":"1d3",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -2286,10 +2462,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/whip"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Axe, Orc Double",
+	"Name":"Axe, Orc Double",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"60 gp",
-	"Dmg (S)":"1d6\/1d6",
-	"Dmg (M)":"1d8\/1d8",
+	"Dmg_S":"1d6\/1d6",
+	"Dmg_M":"1d8\/1d8",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"15 lbs.",
@@ -2299,10 +2476,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/axe-orc-double"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Battle Ladder",
+	"Name":"Battle Ladder",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"20 gp",
-	"Dmg (S)":"1d4\/1d4",
-	"Dmg (M)":"1d6\/1d6",
+	"Dmg_S":"1d4\/1d4",
+	"Dmg_M":"1d6\/1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"8 lbs.",
@@ -2312,10 +2490,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/battle-ladder"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Boarding gaff",
+	"Name":"Boarding gaff",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"8 gp",
-	"Dmg (S)":"1d4\/1d4",
-	"Dmg (M)":"1d6\/1d6",
+	"Dmg_S":"1d4\/1d4",
+	"Dmg_M":"1d6\/1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"8 lbs.",
@@ -2325,10 +2504,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/boarding-gaff"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Chain, Spiked",
+	"Name":"Chain, Spiked",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"25 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"2d4",
+	"Dmg_S":"1d6",
+	"Dmg_M":"2d4",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -2338,10 +2518,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/chain-spiked"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Curve blade, elven",
+	"Name":"Curve blade, elven",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"80 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"18\u201320\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"7 lbs.",
@@ -2351,10 +2532,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/curve-blade-elven"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Dorn Dergar, dwarven",
+	"Name":"Dorn Dergar, dwarven",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"50 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"15 lbs.",
@@ -2364,10 +2546,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/dorn-dergar-dwarven"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Fauchard",
+	"Name":"Fauchard",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"14 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"18-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -2377,10 +2560,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/fauchard"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Flail, dire",
+	"Name":"Flail, dire",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"90 gp",
-	"Dmg (S)":"1d6\/1d6",
-	"Dmg (M)":"1d8\/1d8",
+	"Dmg_S":"1d6\/1d6",
+	"Dmg_M":"1d8\/1d8",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -2390,10 +2574,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/flail-dire"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Flailpole",
+	"Name":"Flailpole",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -2403,10 +2588,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/flailpole"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Flambard",
+	"Name":"Flambard",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"50 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"19-20\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"6 lbs.",
@@ -2416,10 +2602,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/flambard"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Flying blade",
+	"Name":"Flying blade",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"40 gp",
-	"Dmg (S)":"1d10",
-	"Dmg (M)":"1d12",
+	"Dmg_S":"1d10",
+	"Dmg_M":"1d12",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"12 lbs.",
@@ -2429,10 +2616,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/flying-blade"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Garrote",
+	"Name":"Garrote",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"3 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -2442,10 +2630,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/garrote"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Hammer, Gnome hooked",
+	"Name":"Hammer, Gnome hooked",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"20 gp",
-	"Dmg (S)":"1d6\/1d4",
-	"Dmg (M)":"1d8\/1d6",
+	"Dmg_S":"1d6\/1d4",
+	"Dmg_M":"1d8\/1d6",
 	"Critical":"x3\/x4",
 	"Range":"\u2014",
 	"Weight":"6 lbs.",
@@ -2455,10 +2644,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/hammer-gnome-hooked"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Harpoon",
+	"Name":"Harpoon",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"10 ft.",
 	"Weight":"16 lbs.",
@@ -2468,10 +2658,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/harpoon"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Longaxe, dwarven",
+	"Name":"Longaxe, dwarven",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"50 gp",
-	"Dmg (S)":"1d10",
-	"Dmg (M)":"1d12",
+	"Dmg_S":"1d10",
+	"Dmg_M":"1d12",
 	"Critical":"\u00d73",
 	"Range":"\u2014",
 	"Weight":"14 lbs.",
@@ -2481,10 +2672,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/longaxe-dwarven"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Longhammer, dwarven",
+	"Name":"Longhammer, dwarven",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"70 gp",
-	"Dmg (S)":"1d10",
-	"Dmg (M)":"2d6",
+	"Dmg_S":"1d10",
+	"Dmg_M":"2d6",
 	"Critical":"\u00d73",
 	"Range":"\u2014",
 	"Weight":"20 lbs.",
@@ -2494,10 +2686,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/longhammer-dwarven"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Mancatcher",
+	"Name":"Mancatcher",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1",
-	"Dmg (M)":"1d2",
+	"Dmg_S":"1",
+	"Dmg_M":"1d2",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -2507,10 +2700,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/mancatcher"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Net, snag",
+	"Name":"Net, snag",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"30 gp",
-	"Dmg (S)":"see text",
-	"Dmg (M)":"see text",
+	"Dmg_S":"see text",
+	"Dmg_M":"see text",
 	"Critical":"\u2014",
 	"Range":"10 ft.",
 	"Weight":"10 lbs.",
@@ -2520,10 +2714,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/net-snag"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Piston maul",
+	"Name":"Piston maul",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"70 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"15 lbs.",
@@ -2533,10 +2728,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/piston-maul"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Ripsaw glaive",
+	"Name":"Ripsaw glaive",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"30 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"12 lbs.",
@@ -2546,10 +2742,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/glaive-ripsaw"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Scarf, bladed",
+	"Name":"Scarf, bladed",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"12 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -2559,10 +2756,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/scarf-bladed"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Spear, totem",
+	"Name":"Spear, totem",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"25 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"x3",
 	"Range":"10 ft.",
 	"Weight":"6 lbs.",
@@ -2572,10 +2770,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/spear-totem"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Sword, two-bladed",
+	"Name":"Sword, two-bladed",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"100 gp",
-	"Dmg (S)":"1d6\/1d6",
-	"Dmg (M)":"1d8\/1d8",
+	"Dmg_S":"1d6\/1d6",
+	"Dmg_M":"1d8\/1d8",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"\u2014",
 	"Weight":"10 lbs.",
@@ -2585,10 +2784,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sword-two-bladed"
 },
 {
-	"(Exotic) Two-Handed Melee Weapons":"Urgrosh, dwarven",
+	"Name":"Urgrosh, dwarven",
+	"Classification":"(Exotic) Two-Handed Melee Weapons",
 	"Cost":"50 gp",
-	"Dmg (S)":"1d6\/1d4",
-	"Dmg (M)":"1d8\/1d6",
+	"Dmg_S":"1d6\/1d4",
+	"Dmg_M":"1d8\/1d6",
 	"Critical":"x3",
 	"Range":"\u2014",
 	"Weight":"12 lbs.",
@@ -2598,10 +2798,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/urgrosh-dwarven"
 },
 {
-	"(Exotic) Ranged Weapons":"Bola",
+	"Name":"Bola",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"10 ft.",
 	"Weight":"2 lbs.",
@@ -2611,10 +2812,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/bolas"
 },
 {
-	"(Exotic) Ranged Weapons":"Bola, Brutal",
+	"Name":"Bola, Brutal",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"15 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"10 ft.",
 	"Weight":"2 lbs.",
@@ -2624,10 +2826,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/brutal-bolas"
 },
 {
-	"(Exotic) Ranged Weapons":"Boomerang",
+	"Name":"Boomerang",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"3 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"30 ft.",
 	"Weight":"3 lbs.",
@@ -2637,10 +2840,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/boomerang"
 },
 {
-	"(Exotic) Ranged Weapons":"Bow, thorn",
+	"Name":"Bow, thorn",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"50 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"x3",
 	"Range":"40 ft.",
 	"Weight":"2 lbs.",
@@ -2650,10 +2854,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/thorn-bow"
 },
 {
-	"(Exotic) Ranged Weapons":"Crossbow, crank (heavy)",
+	"Name":"Crossbow, crank (heavy)",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"400 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"120 ft.",
 	"Weight":"12 lbs.",
@@ -2663,10 +2868,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/crank-crossbow-heavy"
 },
 {
-	"(Exotic) Ranged Weapons":"Crossbow, crank (light)",
+	"Name":"Crossbow, crank (light)",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"250 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"80 ft.",
 	"Weight":"6 lbs.",
@@ -2676,10 +2882,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/crank-crossbow-light"
 },
 {
-	"(Exotic) Ranged Weapons":"Crossbow, double",
+	"Name":"Crossbow, double",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"300 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19-20\/\u00d72",
 	"Range":"80 ft.",
 	"Weight":"18 lbs.",
@@ -2689,10 +2896,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/crossbow-double"
 },
 {
-	"(Exotic) Ranged Weapons":"Crossbow, hand",
+	"Name":"Crossbow, hand",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"100 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"30 ft.",
 	"Weight":"2 lbs.",
@@ -2702,10 +2910,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/crossbow-hand"
 },
 {
-	"(Exotic) Ranged Weapons":"Crossbow, launching",
+	"Name":"Crossbow, launching",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"75 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"30 ft.",
 	"Weight":"8 lbs.",
@@ -2715,10 +2924,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/crossbow-launching"
 },
 {
-	"(Exotic) Ranged Weapons":"Crossbow, repeating heavy",
+	"Name":"Crossbow, repeating heavy",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"400 gp",
-	"Dmg (S)":"1d8",
-	"Dmg (M)":"1d10",
+	"Dmg_S":"1d8",
+	"Dmg_M":"1d10",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"120 ft.",
 	"Weight":"12 lbs.",
@@ -2728,10 +2938,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/crossbow-repeating"
 },
 {
-	"(Exotic) Ranged Weapons":"Crossbow, repeating",
+	"Name":"Crossbow, repeating",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"250 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"19\u201320\/\u00d72",
 	"Range":"80 ft.",
 	"Weight":"6 lbs.",
@@ -2741,10 +2952,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/crossbow-repeating"
 },
 {
-	"(Exotic) Ranged Weapons":"Flask Thrower",
+	"Name":"Flask Thrower",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"25 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"20 ft.",
 	"Weight":"4 lbs.",
@@ -2754,10 +2966,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/flask-thrower"
 },
 {
-	"(Exotic) Ranged Weapons":"Grappling hook",
+	"Name":"Grappling hook",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"6 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"10 ft.",
 	"Weight":"14 lbs.",
@@ -2767,10 +2980,11 @@
 	"href":""
 },
 {
-	"(Exotic) Ranged Weapons":"Lasso",
+	"Name":"Lasso",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"1 sp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"5 lbs.",
@@ -2780,10 +2994,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/lasso"
 },
 {
-	"(Exotic) Ranged Weapons":"Net",
+	"Name":"Net",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"20 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"10 ft.",
 	"Weight":"6 lbs.",
@@ -2793,10 +3008,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/net"
 },
 {
-	"(Exotic) Ranged Weapons":"Shield, throwing",
+	"Name":"Shield, throwing",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"+50 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"20 ft.",
 	"Weight":"\u2014",
@@ -2806,10 +3022,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/throwing-shield"
 },
 {
-	"(Exotic) Ranged Weapons":"Shrillshaft javelin",
+	"Name":"Shrillshaft javelin",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"35 gp",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"30 ft.",
 	"Weight":"3 lbs.",
@@ -2819,10 +3036,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/javelin-shrillshaft"
 },
 {
-	"(Exotic) Ranged Weapons":"Shuriken (5)",
+	"Name":"Shuriken (5)",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"1 gp",
-	"Dmg (S)":"1",
-	"Dmg (M)":"1d2",
+	"Dmg_S":"1",
+	"Dmg_M":"1d2",
 	"Critical":"\u00d72",
 	"Range":"10 ft.",
 	"Weight":"1\/2 lbs.",
@@ -2832,10 +3050,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-thrown-shuriken"
 },
 {
-	"(Exotic) Ranged Weapons":"Sling, double",
+	"Name":"Sling, double",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"10 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"50 ft.",
 	"Weight":"1 lb.",
@@ -2845,10 +3064,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sling-double"
 },
 {
-	"(Exotic) Ranged Weapons":"Sling glove",
+	"Name":"Sling glove",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"5 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u00d72",
 	"Range":"50 ft.",
 	"Weight":"2 lbs.",
@@ -2858,10 +3078,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sling-glove"
 },
 {
-	"(Exotic) Ranged Weapons":"Sling staff, halfling",
+	"Name":"Sling staff, halfling",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"20 gp",
-	"Dmg (S)":"1d6",
-	"Dmg (M)":"1d8",
+	"Dmg_S":"1d6",
+	"Dmg_M":"1d8",
 	"Critical":"x3",
 	"Range":"80 ft.",
 	"Weight":"3 lbs.",
@@ -2871,10 +3092,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/sling-staff-halfling"
 },
 {
-	"(Exotic) Ranged Weapons":"Sling, stitched",
+	"Name":"Sling, stitched",
+	"Classification":"(Exotic) Ranged Weapons",
 	"Cost":"\u2014 ",
-	"Dmg (S)":"1d4",
-	"Dmg (M)":"1d6",
+	"Dmg_S":"1d4",
+	"Dmg_M":"1d6",
 	"Critical":"\u00d72",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -2884,10 +3106,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/stitched-sling"
 },
 {
-	"(Exotic) Ammunition":"Crossbow bolt(s), heavy\/light\/hand (10)",
+	"Name":"Crossbow bolt(s), heavy\/light\/hand (10)",
+	"Classification":"(Exotic) Ammunition",
 	"Cost":"1 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -2897,10 +3120,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-crossbow-bolts-or-quarrels"
 },
 {
-	"(Exotic) Ammunition":"Crossbow bolt(s), repeating, heavy\/light (5)",
+	"Name":"Crossbow bolt(s), repeating, heavy\/light (5)",
+	"Classification":"(Exotic) Ammunition",
 	"Cost":"1 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
@@ -2910,10 +3134,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-crossbow-bolts-or-quarrels"
 },
 {
-	"(Exotic) Ammunition":"Little starstones (10)",
+	"Name":"Little starstones (10)",
+	"Classification":"(Exotic) Ammunition",
 	"Cost":"5 cp",
-	"Dmg (S)":"1",
-	"Dmg (M)":"1",
+	"Dmg_S":"1",
+	"Dmg_M":"1",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -2923,10 +3148,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/little-starstones"
 },
 {
-	"(Exotic) Ammunition":"Sharpstones (10)",
+	"Name":"Sharpstones (10)",
+	"Classification":"(Exotic) Ammunition",
 	"Cost":"1 gp",
-	"Dmg (S)":"1d3",
-	"Dmg (M)":"1d4",
+	"Dmg_S":"1d3",
+	"Dmg_M":"1d4",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"5 lbs.",
@@ -2936,10 +3162,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/sharpstones"
 },
 {
-	"(Exotic) Ammunition":"Softstones (10)",
+	"Name":"Softstones (10)",
+	"Classification":"(Exotic) Ammunition",
 	"Cost":"1 sp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"4 lbs.",
@@ -2949,10 +3176,11 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/softstones"
 },
 {
-	"(Exotic) Ammunition":"Spongestones (10)",
+	"Name":"Spongestones (10)",
+	"Classification":"(Exotic) Ammunition",
 	"Cost":"10 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"2 lbs.",
@@ -2962,15 +3190,15 @@
 	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/spongestone"
 },
 {
-	"(Exotic) Ammunition":"Thorn (20)",
+	"Name":"Thorn (20)",
+	"Classification":"(Exotic) Ammunition",
 	"Cost":"1 gp",
-	"Dmg (S)":"\u2014",
-	"Dmg (M)":"\u2014",
+	"Dmg_S":"\u2014",
+	"Dmg_M":"\u2014",
 	"Critical":"\u2014",
 	"Range":"\u2014",
 	"Weight":"1 lb.",
 	"Type":"\u2014",
 	"Special":"\u2014",
 	"Source":"GameMastery Module: W1 Conquest of Bloodsworn Vale",
-	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-thorn"
-}]
+	"href":"http:\/\/www.d20pfsrd.com\/equipment---final\/weapons\/weapon-descriptions\/ammunition\/ammunition-bow-thorn"}]
