@@ -34,19 +34,26 @@ class Random_Weapons {
                 if($table_num > 2 && $table_num < 19) {
                     $data_array['th'.$table_num] = array();
                     $first = true;
+                    $header = array();
                     foreach($table->childNodes as $child) {
                         if($first) {
-                            $data_array['th'.$table_num][] = preg_replace('/\n/', ' | ', $child->nodeValue);
+                            // remvoe a trailing and the first br
+                            $node_val = preg_replace("/\n/", " ", trim($child->nodeValue), 1);
+                            $header = explode("\n", $node_val);
+                            $data_array['th'.$table_num][] = $header;
                             $first = false;
                         } else {
-                            $a_tags = $child->getElementsByTagName('a');
-                            $href = '';
-                            if($a_tags && $a_tags->item(0)) {
-                                if($a_tags->item(0)->hasAttribute('href')) {
-                                    $href = $a_tags->item(0)->getAttribute('href');
-                                }
+                            $a_info = $this->search_a_tags($child);
+                            $set_array = array();
+                            $row = explode("\n", trim($child->nodeValue));
+                            for($i=0;$i<9;$i++) {
+                                $set_array[$header[$i]] = $row[$i];
                             }
-                            $data_array['th'.$table_num][] = preg_replace('/\n/', ' | ', $child->nodeValue) . $href;
+
+                            $set_array['Source'] = $a_info['source'];
+                            $set_array['href'] = $a_info['href'];
+
+                            $data_array['th'.$table_num][] = $set_array;
                             $data_array_size++;
                         }
                     }
@@ -56,6 +63,32 @@ class Random_Weapons {
             $this->_data_size = $data_array_size;
             $this->_data_array = $data_array;
         }
+    }
+
+    private function search_a_tags($row) {
+        $a_tags = $row->getElementsByTagName('a');
+        $item_href = '';
+        $source = '';
+        foreach($a_tags as $tag) {
+            if( $tag->hasAttribute('href') && preg_match('/weapon-description/', $tag->getAttribute('href')) ) {
+                $item_href = $tag->getAttribute('href');
+            }
+            if($tag->hasAttribute('title')) {
+                $source = $tag->getAttribute('title');
+            }
+        }
+
+        return array('href' => $item_href, 'source' => $source);
+    }
+
+    public function display($row) {
+        foreach($row as $key => $value) {
+            if($key == 'href') {
+                continue;
+            }
+            echo "\n$key: $value";
+        }
+        echo "\n".$row['href']."\n";
     }
 
     public function generate_random() {
@@ -70,9 +103,7 @@ class Random_Weapons {
                     continue;
                 }
                 if($rand == 1) {
-                    echo "\n".$table[0];
-                    echo "\n".$row;
-                    echo "\n";
+                    $this->display($row);
                     return ;
                 }
 
