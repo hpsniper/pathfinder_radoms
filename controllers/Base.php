@@ -36,16 +36,25 @@ class Base {
     public function generate_random() {
         $data_array = $this->get_data_array();
         $rand = rand(0, count($data_array) - 1);
+        $mw = rand(0, 1);
+        $item = $data_array[$rand];
+        if($mw) {
+            $item = $this->add_masterwork($item);
+        }
         $this->display($data_array[$rand]);
     }
 
     public function search($field, $search) {
         $data_array = $this->get_data_array();
-        foreach($data_array as $wpn) {
-            if(preg_match("/{$search}/i", $wpn->$field)) {
-                $this->display($wpn);
+        foreach($data_array as $item) {
+            if(preg_match("/{$search}/i", $item->$field)) {
+                $this->display($item);
             }
         }
+    }
+
+    protected function add_masterwork($item) {
+        return $item;
     }
 
 }
