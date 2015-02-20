@@ -5,19 +5,8 @@ class Random_Weapons {
     private $_page_url = 'http://www.d20pfsrd.com/equipment---final/weapons';
     private $_data_source = 'data_files/default/weapons.html';
     private $_data_array;
-    private $_data_size;
 
     public function get_data_array() {
-        $this->set_data_array_and_size();
-        return $this->_data_array;
-    }
-
-    public function get_data_array_size() {
-        $this->set_data_array_and_size();
-        return $this->_data_size;
-    }
-
-    public function set_data_array_and_size() {
         if(!isset($this->_data_array)) {
 
             $raw = file_get_contents($this->_data_source);
@@ -27,12 +16,10 @@ class Random_Weapons {
             $table_num = 0;
 
             $data_array = array();
-            $data_array_size = 0;
 
             foreach($tables as $table) {
                 $table_num++;
                 if($table_num > 2 && $table_num < 19) {
-                    $data_array['th'.$table_num] = array();
                     $first = true;
                     $header = array();
                     foreach($table->childNodes as $child) {
@@ -40,7 +27,6 @@ class Random_Weapons {
                             // remvoe a trailing and the first br
                             $node_val = preg_replace("/\n/", " ", trim($child->nodeValue), 1);
                             $header = explode("\n", $node_val);
-                            $data_array['th'.$table_num][] = $header;
                             $first = false;
                         } else {
                             $a_info = $this->search_a_tags($child);
@@ -53,16 +39,16 @@ class Random_Weapons {
                             $set_array['Source'] = $a_info['source'];
                             $set_array['href'] = $a_info['href'];
 
-                            $data_array['th'.$table_num][] = $set_array;
-                            $data_array_size++;
+                            $data_array[] = $set_array;
                         }
                     }
                 }
             }
 
-            $this->_data_size = $data_array_size;
             $this->_data_array = $data_array;
         }
+
+        return $this->_data_array;
     }
 
     private function search_a_tags($row) {
@@ -93,23 +79,8 @@ class Random_Weapons {
 
     public function generate_random() {
         $data_array = $this->get_data_array();
-        $data_array_size = $this->get_data_array_size();
-        $rand = rand(1, $data_array_size);
-        foreach($data_array as $key => $table) {
-            $first = true;
-            foreach($table as $row) {
-                if($first) {
-                    $first = false;
-                    continue;
-                }
-                if($rand == 1) {
-                    $this->display($row);
-                    return ;
-                }
-
-                $rand--;
-            }
-        }
+        $rand = rand(0, count($data_array) - 1);
+        $this->display($data_array[$rand]);
     }
 
 }
