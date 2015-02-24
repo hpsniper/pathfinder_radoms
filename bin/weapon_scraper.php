@@ -32,8 +32,8 @@ class Weapons {
                             $a_info = $this->search_a_tags($child);
                             $set_array = array();
                             $row = explode("\n", trim($child->nodeValue));
-                            $set_array['Name'] = $row[0];
                             $set_array['Classification'] = $header[0];
+                            $set_array['Name'] = $row[0];
                             for($i=1;$i<9;$i++) {
                                 $set_array[$header[$i]] = $row[$i];
                             }

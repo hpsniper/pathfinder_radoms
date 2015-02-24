@@ -1,6 +1,6 @@
 <?php
 
-class Weapons {
+class Armor {
 
     private $_page_url = 'http://www.d20pfsrd.com/equipment---final/armor';
     private $_data_source = '../data_files/default/weapons.html';
@@ -99,5 +99,5 @@ class Weapons {
 
 }
 
-$rw = new Weapons();
+$rw = new Armor();
 $rw->generate_random();
