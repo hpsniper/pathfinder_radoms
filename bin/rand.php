@@ -2,6 +2,7 @@
 <?php
 
 require_once 'controllers/Armor.php';
+require_once 'controllers/Spell.php';
 require_once 'controllers/Weapon.php';
 
 array_shift($argv);
@@ -14,6 +15,9 @@ switch($argv[0]) {
         $wpn = new Weapon();
         $wpn->generate_random();
     break;
+    case 'spell':
+        $spell = new Spell();
+        $spell->generate_random();
 }
 
 ?>

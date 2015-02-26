@@ -14,6 +14,10 @@ class Base {
         return $this->_data_source;
     }
 
+    public function set_data_source($filename, $subdir = 'default') {
+        $this->_data_source = "data_files/$subdir/$filename";
+    }
+
     public function get_data_array() {
         if(!isset($this->_data_array)) {
             $raw = file_get_contents($this->get_data_source());
@@ -28,7 +32,14 @@ class Base {
             if($key == 'href') {
                 continue;
             }
-            echo "\n$key: $value";
+            if(is_string($value)) {
+                echo "\n$key: $value";
+            } else {
+                echo "\n$key: ";
+                foreach($value as $k => $v) {
+                    echo "\n\t$k: $v";
+                }
+            }
         }
         echo "\n".$row->href."\n";
     }
@@ -41,7 +52,7 @@ class Base {
         if($mw) {
             $item = $this->add_masterwork($item);
         }
-        $this->display($data_array[$rand]);
+        $this->display($item);
     }
 
     public function search($field, $search) {
