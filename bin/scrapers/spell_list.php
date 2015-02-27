@@ -3,7 +3,6 @@
 class Spells {
 
     private $_page_url = 'http://www.d20pfsrd.com/magic/all-spells';
-    private $_data_source = '../data_files/default/spells.json';
     private $_data_array;
 
     public function get_data_array() {

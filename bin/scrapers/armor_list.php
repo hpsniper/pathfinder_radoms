@@ -3,7 +3,6 @@
 class Armor {
 
     private $_page_url = 'http://www.d20pfsrd.com/equipment---final/armor';
-    private $_data_source = '../data_files/default/weapons.html';
     private $_data_array;
 
     public function get_data_array() {
@@ -49,6 +48,13 @@ class Armor {
 
                             $set_array['Source'] = $a_info['source'];
                             $set_array['href'] = $a_info['href'];
+                            if(isset($set_array['Armor Cost'])) {
+                                $set_array['Cost In GP'] = $this->convertStringCostToGpFloat($set_array['Armor Cost']);
+                            } else if(isset($set_array['Shield Cost'])) {
+                                $set_array['Cost In GP'] = $this->convertStringCostToGpFloat($set_array['Shield Cost']);
+                            } else if(isset($set_array['Extra Cost'])) {
+                                $set_array['Cost In GP'] = $this->convertStringCostToGpFloat($set_array['Extra Cost']);
+                            }
 
                             $data_array[] = $set_array;
                         }
@@ -70,7 +76,7 @@ class Armor {
         $item_href = '';
         $source = '';
         foreach($a_tags as $tag) {
-            if( $tag->hasAttribute('href') && preg_match('/weapon-description/', $tag->getAttribute('href')) ) {
+            if( $tag->hasAttribute('href') && preg_match('/equipment---final\/armor/', $tag->getAttribute('href')) ) {
                 $item_href = $tag->getAttribute('href');
             }
             if($tag->hasAttribute('title')) {
@@ -81,23 +87,33 @@ class Armor {
         return array('href' => $item_href, 'source' => $source);
     }
 
-    public function display($row) {
-        foreach($row as $key => $value) {
-            if($key == 'href') {
-                continue;
+    private function convertStringCostToGpFloat($cost) {
+        $parts = explode(' ', preg_replace('/,/','',$cost));
+        $mul = 1;
+        $return = $parts[0];
+        if(count($parts) == 2) {
+            switch($parts[1]) {
+                case 'pp':
+                    $mul = 10;
+                break;
+                case 'gp':
+                    $mul = 1;
+                break;
+                case 'sp':
+                    $mul = 0.1;
+                break;
+                case 'cp':
+                    $mul = 0.01;
+                break;
             }
-            echo "\n$key: $value";
-        }
-        echo "\n".$row['href']."\n";
-    }
 
-    public function generate_random() {
-        $data_array = $this->get_data_array();
-        $rand = rand(0, count($data_array) - 1);
-        $this->display($data_array[$rand]);
+            $return = $parts[0] * $mul;
+        }
+
+        return (float) $return;
     }
 
 }
 
-$rw = new Armor();
-$rw->generate_random();
+$arms = new Armor();
+$arms->get_data_array();

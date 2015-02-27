@@ -1,6 +1,6 @@
 <?php
 
-class Weapons {
+class Spell {
 
     private $_data_source = 'data_files/default/spells/names_urls.json';
     private $_data_array;
@@ -109,18 +109,7 @@ class Weapons {
         return '';
     }
 
-    public function save_spell($spell_object) {
-        var_dump($spell_object);
-        exit();
-    }
-
-    public function generate_random() {
-        $data_array = $this->get_data_array();
-        $rand = rand(0, count($data_array) - 1);
-        //$this->display($data_array[$rand]);
-    }
-
 }
 
-$rw = new Weapons();
-$rw->generate_random();
+$spell = new Spell();
+$spell->get_data_array();

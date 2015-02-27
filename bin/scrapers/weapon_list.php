@@ -9,7 +9,7 @@ class Weapons {
     public function get_data_array() {
         if(!isset($this->_data_array)) {
 
-            $raw = file_get_contents($this->_data_source);
+            $raw = file_get_contents($this->_page_url);
             $doc = new DOMDocument;
             $doc->loadHTML('<?xml encoding="UTF-8">' . $raw);
             $tables = $doc->getElementsByTagName('tbody');
@@ -40,6 +40,7 @@ class Weapons {
 
                             $set_array['Source'] = $a_info['source'];
                             $set_array['href'] = $a_info['href'];
+                            $set_array['Cost in GP'] = $this->convertStringCostToGpFloat($set_array['Cost']);
 
                             $data_array[] = $set_array;
                         }
@@ -70,23 +71,33 @@ class Weapons {
         return array('href' => $item_href, 'source' => $source);
     }
 
-    public function display($row) {
-        foreach($row as $key => $value) {
-            if($key == 'href') {
-                continue;
+    private function convertStringCostToGpFloat($cost) {
+        $parts = explode(' ', preg_replace('/,/','',$cost));
+        $mul = 1;
+        $return = $parts[0];
+        if(count($parts) == 2) {
+            switch($parts[1]) {
+                case 'pp':
+                    $mul = 10;
+                break;
+                case 'gp':
+                    $mul = 1;
+                break;
+                case 'sp':
+                    $mul = 0.1;
+                break;
+                case 'cp':
+                    $mul = 0.01;
+                break;
             }
-            echo "\n$key: $value";
-        }
-        echo "\n".$row['href']."\n";
-    }
 
-    public function generate_random() {
-        $data_array = $this->get_data_array();
-        $rand = rand(0, count($data_array) - 1);
-        $this->display($data_array[$rand]);
+            $return = $parts[0] * $mul;
+        }
+
+        return (float) $return;
     }
 
 }
 
 $rw = new Weapons();
-$rw->generate_random();
+$rw->get_data_array();
