@@ -32,10 +32,9 @@ class Base {
             if($key == 'href') {
                 continue;
             }
-            if(is_string($value)) {
+            if(is_string($value) || is_int($value)) {
                 echo "\n$key: $value";
-            } else {
-                echo "\n$key: ";
+            } else if(is_array($value)) {
                 foreach($value as $k => $v) {
                     echo "\n\t$k: $v";
                 }
