@@ -72,12 +72,12 @@ class Spell {
                 $comp_array[$parts[0]] = $this->expandComponenet($parts[0], $extra);
             }
             $spell_object->Components = $comp_array;
-        } else if(preg_match('/Range (.*)Target (.*)Duration (.*)Saving Throw (.*) Spell Resistance (.*)/', $value, $line)) {
+        } else if(preg_match('/Range (.*)(Target|Area) (.*)Duration (.*)Saving Throw (.*) Spell Resistance (.*)/', $value, $line)) {
             $spell_object->Range = $line[1];
-            $spell_object->Target = $line[2];
-            $spell_object->Duration = $line[3];
-            $spell_object->Saving_Throw = $line[4];
-            $spell_object->Spell_Resistance = $line[5];
+            $spell_object->$line[2] = $line[3];
+            $spell_object->Duration = $line[4];
+            $spell_object->Saving_Throw = $line[5];
+            $spell_object->Spell_Resistance = $line[6];
         } else {
             if(isset($spell_object->Description)) {
                 $spell_object->Description = $spell_object->Description."\n".$value;
