@@ -16,6 +16,7 @@ class Base {
 
     public function set_data_source($filename, $subdir = 'default') {
         $this->_data_source = "data_files/$subdir/$filename";
+        $this->_data_array = NULL;
     }
 
     public function get_data_array() {
@@ -34,13 +35,14 @@ class Base {
             }
             if(is_string($value) || is_int($value)) {
                 echo "\n$key: $value";
-            } else if(is_array($value)) {
+            } else {
                 foreach($value as $k => $v) {
                     echo "\n\t$k: $v";
                 }
             }
         }
-        echo "\n".$row->href."\n";
+
+        echo "\n".$this->get_href($row)."\n";
     }
 
     public function generate_random() {
@@ -65,6 +67,10 @@ class Base {
 
     protected function add_masterwork($item) {
         return $item;
+    }
+
+    protected function get_href($row) {
+        return $row->href;
     }
 
 }
