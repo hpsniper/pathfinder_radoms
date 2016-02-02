@@ -2,7 +2,7 @@
 
 class Spell {
 
-    private $_data_source = 'data_files/default/spells/names_urls.json';
+    private $_data_source = 'data_files/default/spells/names_to_urls.json';
     private $_data_array;
 
     public function get_data_array() {
@@ -16,7 +16,7 @@ class Spell {
             $fh;
 
             foreach($spell_array as $name => $url) {
-                $page_raw = file_get_contents("http://www.d20pfsrd.com/$url");
+                $page_raw = file_get_contents("http://www.d20pfsrd.com$url");
                 preg_match('/all-spells\/(\w)/',$url,$matches);
                 if($last_letter != $matches[1]) {
                     if(isset($fh)) {
