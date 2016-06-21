@@ -4,7 +4,7 @@ require_once 'Base.php';
 
 class Weapon extends Base {
 
-    protected $filename = 'weapons.json';
+    protected $file_pattern = 'weapons.json';
 
     protected function add_masterwork($item) {
         preg_match('/([\d,]+) (\D+)/', $item->Cost, $matches);
