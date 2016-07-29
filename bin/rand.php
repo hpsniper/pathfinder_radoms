@@ -18,6 +18,8 @@ switch($argv[0]) {
     case 'spell':
         $spell = new Spell();
         $spell->generate_random();
+    default:
+        echo "Unrecognized: '".$argv[0]."'\n";
 }
 
 ?>
